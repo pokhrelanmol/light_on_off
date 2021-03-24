@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(156, 59, 156);
+}
+.main-heading {
+  margin: auto;
+  text-align: center;
+}
+img{
+  width: 200px;
+}
+button {
+  width: 100px;
+  background-color: yellow;
+  padding: 5px 20px;
+}
+.imageoff {
+  background: url("images/lighton.png");
+}
+
+/* .container {
+  height: 200px;
+  width: 200px;
+  background: url("images/lightoff.png");
+  background-size: cover;
+}
+.lighton{
+  height: 200px;
+  width: 200px;
+  background: url("images/lighton.png");
+  background-size: cover;
+} */
+
+}
